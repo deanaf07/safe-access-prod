@@ -1,0 +1,1 @@
+/subscriptions/dd5b427b-e6fd-4598-907a-26a306b97872/resourceGroups/SafeAccessPROD/providers/Microsoft.Network/applicationGateways/example-appgateway
